@@ -1,0 +1,2 @@
+1. open terminal (administrator)
+2. msiexec.msi -i (Tempat Folder)
